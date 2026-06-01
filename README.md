@@ -192,6 +192,6 @@ Project Link: [https://github.com/matejkrenek/stm8-toolchain](https://github.com
 Apart from this toolchain I recommend any of these:
 
 - [Wykys stm8 tools](https://gitlab.com/wykys/stm8-tools)
-- [Marrek Nozka](https://github.com/spseol/STM8-deroboard-start)
+- [Marrek Nozka](https://github.com/spseol/STM8-toolchain)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
